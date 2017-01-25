@@ -1,2 +1,2 @@
-# ruby
+# Ruby Codes
 All Ruby Codes
